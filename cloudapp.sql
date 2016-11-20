@@ -159,8 +159,6 @@ INSERT INTO `usuarios` (`id_usuario`, `usuario`, `contrasena`, `nombre`) VALUES
 (4, 'sebas', 'sebas', 'sebas'),
 (5, 'bll', 'bll', 'bll'),
 (6, 'enspdf', 'enspdf', 'enspdf'),
-(7, 'amh', '1234', 'andres@outlook.com'),
-(8, 'sandra', 'sandra', 'sandra milena higuita'),
 (9, 'cosa', 'cosa', 'cosa'),
 (10, 'diego', 'diego', 'diego'),
 (11, 'cristian', 'cristian', 'cristian'),
